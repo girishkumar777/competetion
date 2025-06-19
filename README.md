@@ -4,7 +4,7 @@ This is a custom-built **personal portfolio website** created for a hackathon us
 
 ## 🌐 Live Website
 
-🔗 [Click here to visit the live site](https://your-deployment-link.com)
+🔗 [Click here to visit the live site](https://competetion.vercel.app/)
 
 ## ✨ Highlights
 
